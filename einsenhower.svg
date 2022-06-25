@@ -134,47 +134,47 @@
          style="stroke-width:0.26458332">NO IMPORTANTE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="67.37117"
-       y="157.51169"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="70.634529"
+       y="157.31047"
        id="text923"><tspan
          sodipodi:role="line"
          id="tspan921"
-         x="67.37117"
-         y="157.51169"
-         style="stroke-width:0.26458332">HACER</tspan></text>
+         x="70.634529"
+         y="157.31047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hacer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="191.63078"
-       y="157.51297"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="199.14371"
+       y="157.52342"
        id="text927"><tspan
          sodipodi:role="line"
          id="tspan925"
-         x="191.63078"
-         y="157.51297"
-         style="stroke-width:0.26458332">PLANIFICAR</tspan></text>
+         x="199.14371"
+         y="157.52342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Planificar</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="60.487087"
-       y="250.96054"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="65.757446"
+       y="249.96556"
        id="text931"><tspan
          sodipodi:role="line"
          id="tspan929"
-         x="60.487087"
-         y="250.96054"
-         style="stroke-width:0.26458332">DELEGAR</tspan></text>
+         x="65.757446"
+         y="249.96556"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Delegar</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="197.39082"
-       y="250.96445"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="202.47557"
+       y="250.96971"
        id="text935"><tspan
          sodipodi:role="line"
          id="tspan933"
-         x="197.39082"
-         y="250.96445"
-         style="stroke-width:0.26458332">ELIMINAR</tspan></text>
+         x="202.47557"
+         y="250.96971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, ';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Eliminar</tspan></text>
   </g>
 </svg>
